@@ -1,0 +1,25 @@
+<svg width="1000" height="20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <line x1="0" y1="10" x2="1000" y2="10"
+        stroke="#b026ff"
+        stroke-width="5"
+        filter="url(#glow)">
+    <animate attributeName="stroke-opacity"
+             values="0.6;1;0.6"
+             dur="1.5s"
+             repeatCount="indefinite"/>
+    <animate attributeName="stroke-width"
+             values="5;7;5"
+             dur="1.5s"
+             repeatCount="indefinite"/>
+  </line>
+</svg>
