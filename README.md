@@ -6,13 +6,3 @@
 
 <img src="lightsaber-purple.svg" width="100%" alt="Purple Lightsaber">
 
-<script
-  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.9.14/dist/dotlottie-wc.js"
-  type="module"
-></script>
-
-<dotlottie-wc
-  src="https://lottie.host/d6ca61fc-4c97-47bc-9120-f29b582416e3/ls0gBJy6Pn.lottie"
-  style="width: 300px;height: 300px"
-  autoplay
-  loop
