@@ -56,12 +56,12 @@ $ cat status.txt
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bayyubi&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=synthwave&hide_border=true&background_radius=0"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=bayyubi&theme=synthwave&hide_border=true&background_radius=0"/>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ff9f&line=bd00ff&point=00b3ff&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bayyubi&bg_color=0d1117&color=00ff9f&line=bd00ff&point=00b3ff&hide_border=true)](https://github.com/bayyubi)
 
 </div>
 
