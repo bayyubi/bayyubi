@@ -57,7 +57,7 @@ $ cat status.txt
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=bayyubi&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayyubi&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117"/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=bayyubi&theme=synthwave&hide_border=true&background_radius=0"/>
 
@@ -68,9 +68,9 @@ $ cat status.txt
 ## 🐍 Snake Eating My Commits
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayyubi/bayyubi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bayyubi/bayyubi/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/bayyubi/bayyubi/output/github-snake.svg" />
 </picture>
 
 ## 📡 Establish Connection
