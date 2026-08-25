@@ -4,7 +4,7 @@
 
 # ⚡ `BayyUbi` ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com/font=Fira+Code&pause=1000&color=00FF9F&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Game+Developer;Cyber+Security+Enthusiast;Breaking+Things+%26+Building+Better+Ones" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9F&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Game+Developer;Cyber+Security+Enthusiast;Breaking+Things+%26+Building+Better+Ones" alt="Typing SVG" />
 
 </div>
 
