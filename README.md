@@ -12,7 +12,7 @@
       <p align="center"><i>"Building high-performance software & web applications."</i></p>
     </td>
     <td width="35%" style="border: none;">
-      <img src="https://media.giphy.com/media/4aUyJNWBFJrmxeTPRw/giphy.gif" width="220" style="border-radius: 8px;" />
+      <div class="tenor-gif-embed" data-postid="1455786776916033327" data-share-method="host" data-aspect-ratio="1.992" data-width="100%"><a href="https://tenor.com/view/kaito-kuroba-kaito-kid-magic-kaito-anime-boy-wind-gif-1455786776916033327">Kaito Kuroba Kaito Kid GIF</a>from <a href="https://tenor.com/search/kaito+kuroba-gifs">Kaito Kuroba GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
     </td>
   </tr>
 </table>
