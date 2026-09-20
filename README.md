@@ -5,7 +5,7 @@
 <table align="center" border="0" width="100%">
   <tr align="center">
     <td width="35%" style="border: none;">
-      <img src="https://media.giphy.com/media/LmTwNdfSoA9BNnTkKA/giphy.gif" width="220" style="border-radius: 8px;" />
+      <img src="https://tenor.com/view/kaito-kuroba-kaito-kid-magic-kaito-anime-boy-wind-gif-1455786776916033327" width="220" style="border-radius: 8px;" />
     </td>
     <td width="30%" style="border: none;">
       <h3 align="center">🏎️ Welcome to My Workspace</h3>
